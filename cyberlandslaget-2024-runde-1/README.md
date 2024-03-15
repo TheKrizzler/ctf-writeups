@@ -7,7 +7,7 @@ Static analysis intro
 Frem og tilbake er ikke like langt, 
 
 ### Warmup
-Data Representation\n
+Data Representation
 Encoding
 Introduction to the linux terminal
 Python-keygen
