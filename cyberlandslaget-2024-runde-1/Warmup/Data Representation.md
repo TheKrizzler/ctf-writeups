@@ -11,6 +11,8 @@
 >Submit the solution as flag{bits,hexadecimal,decimal}.
 >
 >Example: flag{01101000011001010110100100100001,0x68656921,1751476513}
+>
+>Author: KatSilverberg
 
 ## Solution
 This was a very simple challenge, but i was still stuck on it for a few days due to a small detail. To convert the word "magi" to binary, hex, and decimal we can use a service like [rapidtables](https://www.rapidtables.com/convert/number/ascii-to-binary.html).
