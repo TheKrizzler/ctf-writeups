@@ -16,7 +16,7 @@
 This challenge is to decode a flag encoded with base64. However, it is encoded with a custom character set, and we are given a [list] with the new character set. 
 The encoding process is the same as regular base64 despite the different character set, so we can simply subsitute the characters of the encoded flag with those of the standard base64 character set.
 
-![Python example solution](Files/encoding_løsning.py)
+![Python example solution](../Files/encoding_løsning.py)
 
 This script returns the flag:
 >flag{ikke-så-ulikt-base64-egentlig}
