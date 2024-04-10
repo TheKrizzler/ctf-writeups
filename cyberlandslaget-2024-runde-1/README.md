@@ -1,10 +1,6 @@
 # Cyberlandslaget 2024 qualifications
 ## First round
-
-This writeup does not include writeups for:  
-Intro to x64 assembly  
-Static analysis intro  
-Frem og tilbake er ikke like langt  
+### This writeup is incomplete, I'm still adding writeups. 
 
 ### Warmup
 Data Representation  
