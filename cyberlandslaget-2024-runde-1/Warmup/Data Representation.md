@@ -17,11 +17,9 @@
 ## Solution
 This was a very simple challenge, but i was still stuck on it for a few days due to a small detail. To convert the word "magi" to binary, hex, and decimal we can use a service like [rapidtables](https://www.rapidtables.com/convert/number/ascii-to-binary.html).
 
-Note that the decimal value in the example is **not** put together of the four separate decimal values that represent the string "magi", but rather the decimal representation of the value of the hex number next to it. For this reason we will do the same thing in the flag.
-
 Binary: 01101101 01100001 01100111 01101001  
 Hex: 0x6d616769  
-Decimal: 1835100009 (Found by converting either the hex or binary value to decimal, **not** the string.  
+Decimal: 1835100009
 
 >flag{01101101011000010110011101101001,0x6d616769,1835100009}
 
